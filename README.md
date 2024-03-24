@@ -1,6 +1,8 @@
 # taranifyapp.github.io
 
-Public github page about Taranify.app, a recommendation ai based on your current mood:
-* [Spotify Playlist AI](https://taranify.app)
-* [Netflix Movies & TV-Shows Recommendations](https://taranify.app/watch)
-* [Book Recommendation Ai](https://taranify.app/read)
+Public github page about Taranify.com, a recommendation ai based on your current mood:
+* [Spotify Playlist AI](https://www.taranify.com/what-to-listen-spotify)
+* [Netflix Movies & TV-Shows Recommendations](https://www.taranify.com/what-to-watch-netflix)
+* [Book Recommendation Ai](https://www.taranify.com/what-book-to-read)
+
+
